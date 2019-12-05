@@ -17,7 +17,8 @@ public class HelloWordMainApplication {
     public static void main(String[] args) {
         //spring将应用启动起来
         SpringApplication.run(HelloWordMainApplication.class,args);
-        
+
+
 
     }
 
